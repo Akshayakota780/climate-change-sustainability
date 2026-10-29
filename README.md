@@ -14,7 +14,7 @@ Objectives
 Technologies Used
 
 - Python
-- Pandas
+- SQL
 - Machine Learning
 - Support Vector Machine (SVM)
 - Random Forest
