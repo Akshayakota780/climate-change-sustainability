@@ -14,6 +14,7 @@ Objectives
 Technologies Used
 
 - Python
+- Django
 - SQL
 - Machine Learning
 - Support Vector Machine (SVM)
