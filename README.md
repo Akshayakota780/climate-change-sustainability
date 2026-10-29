@@ -27,10 +27,3 @@ Data Preprocessing
 - Handle missing values.
 - Prepare data for analysis.
 
-Project Status
-
-Project documentation and implementation are in progress.
-
-Author
-
-Akshaya Kota — B.Tech CSE Graduate
